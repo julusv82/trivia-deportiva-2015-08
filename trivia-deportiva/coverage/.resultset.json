@@ -5,7 +5,7 @@
         1,
         null,
         1,
-        null,
+        1,
         null
       ],
       "/home/kleer/CSD/proyecto/trivia-deportiva/features/step_definitions/my_steps.rb": [
@@ -48,6 +48,6 @@
         null
       ]
     },
-    "timestamp": 1440772509
+    "timestamp": 1440773373
   }
 }

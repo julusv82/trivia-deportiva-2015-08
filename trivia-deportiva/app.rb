@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Trivia deportiva"
+  erb:inicio
 end
