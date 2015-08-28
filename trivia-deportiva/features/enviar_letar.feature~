@@ -33,10 +33,12 @@ When tengo la palabra "MESSI"
 And reciba la letra "s"
 Then debo ver mensaje "2 coincidencias"
 
-Scenario: establecer la palabra
+Scenario: establecer usa sola palabra
 Given que ingreso al sistema
 Then el sistema asigna la palabra "MESSI"
 
-
+Scenario: establecer una palabra
+Given que ingreso al sistema
+Then el sistema asigna la palabra "ROBERTO" or "MESSI"
 
 
