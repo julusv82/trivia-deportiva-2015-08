@@ -1,9 +1,9 @@
-require "./DictionaryService"
+#require "./DictionaryService"
 
-describe DictionaryServiceTest
+#describe DictionaryServiceTest
 
-  it "debo devolver mensaje => MESSI" do
-    DictionaryService.new.get_word.shold == "MESSI"
-  end
+#  it "debo devolver mensaje => MESSI" do
+#    DictionaryService.new.get_word.shold == "MESSI"
+#  end
 
-end
+#end

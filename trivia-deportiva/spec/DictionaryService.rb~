@@ -1,4 +1,5 @@
 require "./DictionaryService"
+
 describe DictionaryServiceTest
 
   it "debo devolver mensaje => MESSI" do
