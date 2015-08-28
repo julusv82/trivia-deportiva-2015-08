@@ -2,8 +2,8 @@
   <head>
     <title>Trivia Deportiva</title>
   </head>
-  <body bgcolor="#F47676">
-    <h1>Trivia Deportiva</h1>
+  <body bgcolor="#F35555">
+    <h1 style="font-color:white;">Trivia Deportiva</h1>
     <form action = "/">
       <table>
         <tr>
